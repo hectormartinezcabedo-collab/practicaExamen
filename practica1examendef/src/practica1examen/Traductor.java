@@ -199,6 +199,8 @@ private JTextArea textArea;
 		});
 		btnEliminar.setBounds(354, 268, 105, 27);
 		frame.getContentPane().add(btnEliminar);
+
+		//Franco
 		
 		
 	
